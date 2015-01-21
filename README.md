@@ -7,7 +7,7 @@ Use cases get managed and discussed in as Github issues: [github.com/demand-driv
 
 ## Specifications
 
-Specifications for each use case are described in the wiki: [github.com/demand-driven-open-data/demand-driven-open-data.github.io/wiki](https://github.com/demand-driven-open-data/demand-driven-open-data.github.io/wiki)
+Specifications for each use case are described in the wiki: [github.com/demand-driven-open-data/ddod-intake/wiki](https://github.com/demand-driven-open-data/ddod-intake/wiki)
 
 
 ## Introduction, instructions, how it works
