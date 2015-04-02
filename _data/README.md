@@ -1,29 +1,38 @@
 # Directory Contents
 
 ## Data dictionaries
-This directory contains machine readable data dictionaries
+This directory contains machine readable data dictionaries.  Multiple formats are possible, including: SQL DDL, XML, JSON, YAML
+
+* ANSI SQL Standard 
+   - DDL (Data Definition Language): "CREATE TABLE"
+   - [SQL/Schemata](http://webstore.ansi.org/RecordDetail.aspx?sku=ISO%2FIEC+9075-11%3A2011)
+ 
+        ```
+        testdb-# \d company
+                    Table "public.company"
+          Column   |     Type      | Modifiers
+        -----------+---------------+-----------
+         id        | integer       | not null
+         name      | text          | not null
+         address   | character(50) |
+         join_date | date          |
+        Indexes:
+            "company_pkey" PRIMARY KEY, btree (id)
+        ```
 
 * JSON Table Schema: http://dataprotocols.org/json-table-schema/
 
     ```
-    {
-      # fields is an ordered list of field descriptors
-      # one for each field (column) in the table
+    "schema": {
       "fields": [
-        # a field-descriptor
         {
           "name": "name of field (e.g. column name)",
           "title": "A nicer human readable label or title for the field",
           "type": "A string specifying the type",
-          "format": "A string specifying a format",
-          "description": "A description for the field"
-          ...
         },
         ... more field descriptors
       ],
-      # (optional) specification of the primary key
       "primaryKey": ...
-      # (optional) specification of the foreign keys
       "foreignKeys": ...
     }
     ```
