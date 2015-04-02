@@ -1,5 +1,40 @@
-pma_id
-501k_id
-recall_number
-recall_event_id
-z_number
+"schema": {
+  "name": "use_case_6",	
+  "fields": [
+    {
+      "name": "id",
+      "title": "Primary Key",
+      "type": "integer",
+    },
+    {
+      "name": "pma_id",
+      "title": "PMA ID",
+      "type": "string",
+    },
+    {
+      "name": "501k_id",
+      "title": "501k ID",
+      "type": "string",
+    },
+    {
+      "name": "recall_number",
+      "title": "Recall Number",
+      "type": "string",
+    },
+    {
+      "name": "recall_event_id",
+      "title": "Recall Event ID",
+      "type": "string",
+    },
+    {
+      "name": "z_number",
+      "title": "z-Number",
+      "type": "string",
+    },
+  ],
+  "primaryKey": ["id"],
+  "foreignKeys": [
+    {"fields": "pma_id",  "reference": ""},
+    {"fields": "501k_id",  "reference": ""},
+  ]
+}

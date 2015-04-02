@@ -1,0 +1,10 @@
+---
+detect_relations: true
+
+Use_Case_6:
+  columns:
+    pma_id: string
+    501k_id: string
+    recall_number: string
+    recall_event_id: string
+    z_number: string
