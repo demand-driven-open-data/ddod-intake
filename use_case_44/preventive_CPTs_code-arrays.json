@@ -1,0 +1,755 @@
+[  
+   {  
+      "Subject":"Alcohol Misuse Screening and Counseling\nAlso referred to as the Screening and Behavioral Counseling Interventions in\nPrimary Care to Reduce Alcohol Misuse",
+      "HCPCS-CPT_Code_Summary":"G0442 – Annual alcohol misuse screening, 15 minutes\nG0443 – Brief face-to-face behavioral counseling for alcohol misuse,\n15 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0442",
+            "HCPCS-CPT_Description":"Annual alcohol misuse screening, 15 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0443",
+            "HCPCS-CPT_Description":"Brief face-to-face behavioral counseling for alcohol misuse,\n15 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"All Medicare beneficiaries are eligible for alcohol screening.\nMedicare beneficiaries who screen positive (those who misuse\nalcohol but whose levels or patterns of alcohol consumption do not\nmeet criteria for alcohol dependence) are eligible for counseling if:\n• They are competent and alert at the time that counseling is\nprovided; and\n• Counseling is furnished by qualified primary care physicians or\nother primary care practitioners in a primary care setting.",
+      "Frequency":"• Annually for G0442; or\n• For those who screen positive, 4 times per year for G0443",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Annual Wellness Visit (AWV)",
+      "HCPCS-CPT_Code_Summary":"G0438 – Initial visit\nG0439 – Subsequent visit",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0438",
+            "HCPCS-CPT_Description":"Initial visit"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0439",
+            "HCPCS-CPT_Description":"Subsequent visit"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC)\nfor guidance",
+      "Who_Is_Covered":"All Medicare beneficiaries:\n• Who are not within 12 months after the effective date of their first\nMedicare Part B coverage period; and\n• Who have not received an Initial Preventive Physical Examination\n(IPPE) or AWV within the past 12 months",
+      "Frequency":"• Once in a lifetime for G0438 (first AWV); or\n• Annually for G0439 (subsequent AWV)",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Bone Mass Measurements",
+      "HCPCS-CPT_Code_Summary":"76977 – Ultrasound bone density measurement and interpretation,\nperipheral site(s), any method\n77078 – Computed tomography, bone mineral density study, 1 or\nmore sites; axial skeleton (eg, hips, pelvis, spine)\n77080 – Dual-energy X-ray absorptiometry (DXA), bone density\nstudy, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)\n77081 – DXA, bone density study, 1 or more sites; appendicular\nskeleton (peripheral) (eg, radius, wrist, heel)\nG0130 – Single energy X-ray absorptiometry (SEXA) bone density\nstudy, 1 or more sites, appendicular skeleton (peripheral) (eg, radius,\nwrist, heel)",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"76977",
+            "HCPCS-CPT_Description":"Ultrasound bone density measurement and interpretation, peripheral site(s), any method"
+         },
+         {  
+            "HCPCS-CPT_Code":"77078",
+            "HCPCS-CPT_Description":"Computed tomography, bone mineral density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)"
+         },
+         {  
+            "HCPCS-CPT_Code":"77080",
+            "HCPCS-CPT_Description":"Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)"
+         },
+         {  
+            "HCPCS-CPT_Code":"77081",
+            "HCPCS-CPT_Description":"DXA, bone density study, 1 or more sites; appendicular skeleton (peripheral) (eg, radius, wrist, heel)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0130",
+            "HCPCS-CPT_Description":"Single energy X-ray absorptiometry (SEXA) bone density study, 1 or more sites, appendicular skeleton (peripheral) (eg, radius, wrist, heel)"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"Certain Medicare beneficiaries who fall into at least one of the\nfollowing categories:\n• Women determined by their physician or qualified non-physician\npractitioner (NPP) to be estrogen deficient and at clinical risk for\nosteoporosis;\n• Individuals with vertebral abnormalities;\n• Individuals getting (or expecting to get) glucocorticoid therapy for\nmore than 3 months;\n• Individuals with primary hyperparathyroidism; or\n• Individuals being monitored to assess response to U.S. Food and\nDrug Administration (FDA)-approved osteoporosis drug therapy",
+      "Frequency":"• Every 2 years; or\n• More frequently if medically necessary",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Cardiovascular Disease Screening Tests",
+      "HCPCS-CPT_Code_Summary":"80061 – Lipid panel, this panel must include the following:\n82465 – Cholesterol, serum, total\n83718 – Lipoprotein, direct measurement, high density cholesterol\n(HDL cholesterol)\n84478 – Triglycerides",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"80061",
+            "HCPCS-CPT_Description":"Lipid panel, this panel must include the following:"
+         },
+         {  
+            "HCPCS-CPT_Code":"82465",
+            "HCPCS-CPT_Description":"Cholesterol, serum, total"
+         },
+         {  
+            "HCPCS-CPT_Code":"83718",
+            "HCPCS-CPT_Description":"Lipoprotein, direct measurement, high density cholesterol (HDL cholesterol)"
+         },
+         {  
+            "HCPCS-CPT_Code":"84478",
+            "HCPCS-CPT_Description":"Triglycerides"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one or more of the following codes: V81.0, V81.1, V81.2",
+      "Who_Is_Covered":"All Medicare beneficiaries without apparent signs or symptoms of\ncardiovascular disease",
+      "Frequency":"Once every 5 years",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived\nFor more information, refer to http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/MLN-Publications-\nItems/ICN907784.html on the Centers for Medicare & Medicaid Services (CMS) website.\nCPT only copyright 2014 American Medical Association. All rights reserved."
+   },
+   {  
+      "Subject":"Colorectal Cancer Screening\nExpanded Coverage! Medicare began covering the CologuardTM Multitarget Stool DNA (sDNA)\nTest effective October 9, 2014.",
+      "HCPCS-CPT_Code_Summary":"00810 – Anesthesia for lower intestinal endoscopic procedures, endoscope\nintroduced distal to duodenum\n82270 – Blood, occult, by peroxidase activity (eg, guaiac), qualitative; feces,\nconsecutive collected specimens with single determination, for colorectal\nneoplasm screening (ie, patient was provided 3 cards or single triple card\nfor consecutive collection)\nG0104 – Flexible Sigmoidoscopy\nG0105 – Colonoscopy (high risk)\nG0106 – Barium Enema (alternative to G0104)\nG0120 – Barium Enema (alternative to G0105)\nG0121 – Colonoscopy (not high risk)\nG0328 – Fecal Occult Blood Test (FOBT), immunoassay, 1-3 simultaneous\nG0464 – Colorectal cancer screening; stool-based DNA and fecal occult\nhemoglobin (e.g., KRAS, NDRG4 and BMP3)",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"00810",
+            "HCPCS-CPT_Description":"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum"
+         },
+         {  
+            "HCPCS-CPT_Code":"82270",
+            "HCPCS-CPT_Description":"Blood, occult, by peroxidase activity (eg, guaiac), qualitative; feces, consecutive collected specimens with single determination, for colorectal neoplasm screening (ie, patient was provided 3 cards or single triple card for consecutive collection)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0104",
+            "HCPCS-CPT_Description":"Flexible Sigmoidoscopy"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0105",
+            "HCPCS-CPT_Description":"Colonoscopy (high risk)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0106",
+            "HCPCS-CPT_Description":"Barium Enema (alternative to G0104)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0120",
+            "HCPCS-CPT_Description":"Barium Enema (alternative to G0105)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0121",
+            "HCPCS-CPT_Description":"Colonoscopy (not high risk)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0328",
+            "HCPCS-CPT_Description":"Fecal Occult Blood Test (FOBT), immunoassay, 1-3 simultaneous"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0464",
+            "HCPCS-CPT_Description":"Colorectal cancer screening; stool-based DNA and fecal occult hemoglobin (e.g., KRAS, NDRG4 and BMP3)"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"For colorectal cancer screening using Cologuard™—a Multitarget\nStool DNA (sDNA) Test:\nAll Medicare beneficiaries:\n• Aged 50 to 85 years;\n• Asymptomatic; and\n• At average risk of developing colorectal cancer\nFor screening colonoscopies, FOBTs, flexible sigmoidoscopies, and\nbarium enemas:\nAll Medicare beneficiaries:\n• Aged 50 and older who are at normal risk of developing colorectal\ncancer; or\n• At high risk of developing colorectal cancer\n“High risk for developing colorectal cancer” is defined in the Code of Federal\nRegulations (CFR) at 42 CFR 410.37(a)(3).\nNOTE: For coverage of screening colonoscopies, there is no age limitation.",
+      "Frequency":"Normal Risk:\n• Cologuard™ Multitarget Stool DNA (sDNA) Test: once every 3 years;\n• Screening FOBT: every year;\n• Screening flexible sigmoidoscopy: once every 4 years (unless a\nscreening colonoscopy has been performed and then Medicare may\ncover a screening flexible sigmoidoscopy only after at least 119 months);\n• Screening colonoscopy: every 10 years (unless a screening flexible\nsigmoidoscopy has been performed and then Medicare may cover a\nscreening colonoscopy only after 47 months); and\n• Screening barium enema (as an alternative to covered screening\nflexible sigmoidoscopy)\nHigh Risk:\n• Screening FOBT: every year;\n• Screening flexible sigmoidoscopy: once every 4 years;\n• Screening colonoscopy: every 2 years (unless a screening flexible\nsigmoidoscopy has been performed and then Medicare may cover a\nscreening colonoscopy only after at least 47 months); and\n• Screening barium enema (as an alternative to covered screening flexible\nsigmoidoscopy or colonoscopy)\nCPT only copyright 2014 American Medical Association. All rights reserved.",
+      "Beneficiary_Pays":""
+   },
+   {  
+      "Subject":"Colorectal Cancer Screening (continued)\nExpanded Coverage! Medicare began covering the CologuardTM Multitarget Stool DNA (sDNA)\nTest effective October 9, 2014.",
+      "HCPCS-CPT_Code_Summary":"",
+      "HCPCS-CPT_Codes":[  
+         {  
+
+         }
+      ],
+      "ICD-9-CM_Codes":"",
+      "Who_Is_Covered":"",
+      "Frequency":"",
+      "Beneficiary_Pays":"82270, G0104, G0105, G0121, and G0328:\n• Copayment/coinsurance waived\n• Deductible waived\nAppend modifier -33 to the anesthesia CPT code 00810 when you furnish a\nseparately payable anesthesia service in conjunction with a screening\ncolonoscopy (G0105 and G0121) to waive beneficiary copayment/\ncoinsurance and deductible.\nG0106 and G0120:\n• Copayment/coinsurance applies\n• Deductible waived\nNo deductible for all surgical procedures (CPT code range of 10000 to\n69999) furnished on the same date and in the same encounter as a\nscreening colonoscopy, flexible sigmoidoscopy, or barium enema initiated as\ncolorectal cancer screening services.\nAppend modifier -PT to CPT code in the surgical range of 10000 to 69999 in\nthis scenario.\nCPT only copyright 2014 American Medical Association. All rights reserved."
+   },
+   {  
+      "Subject":"Counseling to Prevent Tobacco Use\n(for Asymptomatic Beneficiaries)",
+      "HCPCS-CPT_Code_Summary":"G0436 – Smoking and tobacco cessation counseling visit for the\nasymptomatic patient; intermediate, greater than 3 minutes, up to\n10 minutes\nG0437 – Smoking and tobacco cessation counseling visit for the\nasymptomatic patient; intensive, greater than 10 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0436",
+            "HCPCS-CPT_Description":"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intermediate, greater than 3 minutes, up to 10 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0437",
+            "HCPCS-CPT_Description":"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes: 305.1 or V15.82",
+      "Who_Is_Covered":"Outpatient and hospitalized Medicare beneficiaries:\n• Who use tobacco, regardless of whether they exhibit signs or\nsymptoms of tobacco-related disease;\n• Who are competent and alert at the time of counseling; and\n• Who get counseling furnished by a qualified physician or other\nMedicare-recognized practitioner",
+      "Frequency":"Two cessation attempts per year. Each attempt may include a\nmaximum of 4 intermediate or intensive sessions, with the total\nannual benefit covering up to 8 sessions per year",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Depression Screening",
+      "HCPCS-CPT_Code_Summary":"G0444 – Annual depression screening, 15 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0444",
+            "HCPCS-CPT_Description":"Annual depression screening, 15 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"All Medicare beneficiaries\nMust be furnished in a primary care setting that has staff-assisted\ndepression care supports in place to assure accurate diagnosis,\neffective treatment, and follow-up",
+      "Frequency":"Annually",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived\nFor more information, refer to http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/MLN-Publications-\nItems/ICN907799.html on the Centers for Medicare & Medicaid Services (CMS) website."
+   },
+   {  
+      "Subject":"Diabetes Screening",
+      "HCPCS-CPT_Code_Summary":"82947 – Glucose; quantitative, blood (except reagent strip)\n82950 – Glucose; post glucose dose (includes glucose)\n82951 – Glucose; tolerance test (GTT), 3 specimens\n(includes glucose)",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"82947",
+            "HCPCS-CPT_Description":"Glucose; quantitative, blood (except reagent strip)"
+         },
+         {  
+            "HCPCS-CPT_Code":"82950",
+            "HCPCS-CPT_Description":"Glucose; post glucose dose (includes glucose)"
+         },
+         {  
+            "HCPCS-CPT_Code":"82951",
+            "HCPCS-CPT_Description":"Glucose; tolerance test (GTT), 3 specimens (includes glucose)"
+         }
+      ],
+      "ICD-9-CM_Codes":"V77.1",
+      "Who_Is_Covered":"Medicare beneficiaries with certain risk factors for diabetes or\ndiagnosed with pre-diabetes\nNOTE: Beneficiaries previously diagnosed with diabetes are not\neligible for this benefit",
+      "Frequency":"• Two screening tests per year for beneficiaries diagnosed with\npre-diabetes; or\n• One screening per year if previously tested but not diagnosed with\npre-diabetes or if never tested",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived\nCPT only copyright 2014 American Medical Association. All rights reserved."
+   },
+   {  
+      "Subject":"Diabetes Self-Management Training (DSMT)",
+      "HCPCS-CPT_Code_Summary":"G0108 – DSMT, individual, per 30 minutes\nG0109 – DSMT, group (2 or more), per 30 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0108",
+            "HCPCS-CPT_Description":"DSMT, individual, per 30 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0109",
+            "HCPCS-CPT_Description":"DSMT, group (2 or more), per 30 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"Certain Medicare beneficiaries who:\n• Are diagnosed with diabetes; and\n• Who receive an order for DSMT from the physician or qualified\nnon-physician practitioner (NPP) treating the beneficiary’s diabetes",
+      "Frequency":"• Initial year: Up to 10 hours of initial training within a continuous\n12-month period; or\n• Subsequent years: Up to 2 hours of follow-up training each year\nafter the initial year",
+      "Beneficiary_Pays":"• Copayment/coinsurance applies\n• Deductible applies"
+   },
+   {  
+      "Subject":"Glaucoma Screening",
+      "HCPCS-CPT_Code_Summary":"G0117 – By an optometrist or ophthalmologist\nG0118 – Under the direct supervision of an optometrist\nor ophthalmologist",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0117",
+            "HCPCS-CPT_Description":"By an optometrist or ophthalmologist"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0118",
+            "HCPCS-CPT_Description":"Under the direct supervision of an optometrist or ophthalmologist"
+         }
+      ],
+      "ICD-9-CM_Codes":"V80.1",
+      "Who_Is_Covered":"Medicare beneficiaries who:\n• Have diabetes mellitus;\n• Have a family history of glaucoma;\n• Are African-Americans aged 50 and older; or\n• Are Hispanic-Americans aged 65 and older",
+      "Frequency":"Annually for covered beneficiaries",
+      "Beneficiary_Pays":"• Copayment/coinsurance applies\n• Deductible applies"
+   },
+   {  
+      "Subject":"Hepatitis B Virus (HBV) Vaccine and Administration",
+      "HCPCS-CPT_Code_Summary":"90739 – Hepatitis B vaccine, adult dosage (2 dose schedule), for\nintramuscular use\n90740 – Hepatitis B vaccine, dialysis or immunosuppressed patient\ndosage (3 dose schedule), for intramuscular use\n90743 – Hepatitis B vaccine, adolescent (2 dose schedule), for\nintramuscular use\n90744 – Hepatitis B vaccine, pediatric/adolescent dosage (3 dose\nschedule), for intramuscular use\n90746 – Hepatitis B vaccine, adult dosage (3 dose schedule), for\nintramuscular use\n90747 – Hepatitis B vaccine, dialysis or immunosuppressed patient\ndosage (4 dose schedule), for intramuscular use\nG0010 – Administration",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"90739",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, adult dosage (2 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"90740",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, dialysis or immunosuppressed patient dosage (3 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"90743",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, adolescent (2 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"90744",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, pediatric/adolescent dosage (3 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"90746",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, adult dosage (3 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"90747",
+            "HCPCS-CPT_Description":"Hepatitis B vaccine, dialysis or immunosuppressed patient dosage (4 dose schedule), for intramuscular use"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0010",
+            "HCPCS-CPT_Description":"Administration"
+         }
+      ],
+      "ICD-9-CM_Codes":"V05.3",
+      "Who_Is_Covered":"Certain Medicare beneficiaries at intermediate or high risk for\ncontracting hepatitis B\nNOTE: Medicare beneficiaries who are currently positive for\nantibodies for hepatitis B are not eligible for this benefit",
+      "Frequency":"Scheduled dosages required",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Hepatitis C Virus (HCV) Screening\nNew Service! Medicare began covering HCV screening effective June 2, 2014.",
+      "HCPCS-CPT_Code_Summary":"G0472 – Hepatitis C antibody screening, for individual at high risk and\nother covered indication(s)",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0472",
+            "HCPCS-CPT_Description":"Hepatitis C antibody screening, for individual at high risk and other covered indication(s)"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes for high risk beneficiaries:\n• V69.8 - initial claim;\n• V69.8 and 304.91-subsequent claims for high risk\nbeneficiaries with continued illicit injection drug use since prior\nnegative screening",
+      "Who_Is_Covered":"Certain adult Medicare beneficiaries who:\n• Are at high risk for HCV infection; or\n• Were born between 1945 and 1965",
+      "Frequency":"• Annually only for high risk beneficiaries with continued illicit\ninjection drug use since the prior negative screening test; or\n• Once in a lifetime for beneficiaries born between 1945 and 1965\nwho are not considered high risk.",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Human Immunodeficiency Virus (HIV) Screening",
+      "HCPCS-CPT_Code_Summary":"G0432 – Infectious agent antibody detection by enzyme\nimmunoassay (EIA) technique\nG0433 – Infectious agent antibody detection by enzyme-linked\nimmunosorbent assay (ELISA) technique\nG0435 – Infectious agent antibody detection by rapid antibody test",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0432",
+            "HCPCS-CPT_Description":"Infectious agent antibody detection by enzyme immunoassay (EIA) technique"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0433",
+            "HCPCS-CPT_Description":"Infectious agent antibody detection by enzyme-linked immunosorbent assay (ELISA) technique"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0435",
+            "HCPCS-CPT_Description":"Infectious agent antibody detection by rapid antibody test"
+         }
+      ],
+      "ICD-9-CM_Codes":"Beneficiaries reporting increased risk:\n• V73.89 – Primary; and\n• V69.8 – Secondary, as appropriate\nPregnant beneficiaries:\n• V73.89 – Primary; and\n• V22.0, V22.1, or V23.9 – Secondary, as appropriate",
+      "Who_Is_Covered":"Certain Medicare beneficiaries who are at increased risk for HIV\ninfection, including anyone who asks for the test, or pregnant women\nNOTE: “Increased risk for HIV infection” is defined in the Medicare\nNational Coverage Determinations Manual, Publication 100-03,\nChapter 1, Section 210.7.",
+      "Frequency":"Annually for beneficiaries at increased risk, including anyone who\nasks for the test\nFor beneficiaries who are pregnant, 3 times per pregnancy:\n• First, when a woman is diagnosed with pregnancy;\n• Second, during the third trimester; and\n• Third, at labor, if ordered by the woman’s clinician",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Influenza Virus Vaccine and Administration",
+      "HCPCS-CPT_Code_Summary":"90653, 90654, 90655, 90656, 90657, 90660, 90661, 90662, 90672,\n90673, 90685, 90686, 90687, 90688, Q2034, Q2035, Q2036, Q2037,\nQ2038, Q2039 – Influenza Virus Vaccine\nG0008 – Administration",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"90653",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90654",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90655",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90656",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90657",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90660",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90661",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90662",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90672",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90673",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90685",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90686",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90687",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90688",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2034",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2035",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2036",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2037",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2038",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q2039",
+            "HCPCS-CPT_Description":"Influenza Virus Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0008",
+            "HCPCS-CPT_Description":"Administration"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes:\n• V04.81 – Influenza\n• V06.6 – Pneumococcus and Influenza",
+      "Who_Is_Covered":"All Medicare beneficiaries",
+      "Frequency":"Once per influenza season\nMedicare covers additional flu shots if medically necessary",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Initial Preventive Physical Examination (IPPE)\nAlso known as the “Welcome to Medicare Preventive Visit”",
+      "HCPCS-CPT_Code_Summary":"G0402 – IPPE\nG0403 – EKG for IPPE\nG0404 – EKG tracing for IPPE\nG0405 – EKG interpret & report for IPPE",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0402",
+            "HCPCS-CPT_Description":"IPPE"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0403",
+            "HCPCS-CPT_Description":"EKG for IPPE"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0404",
+            "HCPCS-CPT_Description":"EKG tracing for IPPE"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0405",
+            "HCPCS-CPT_Description":"EKG interpret & report for IPPE"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"All new Medicare beneficiaries who are within the first 12 months of\ntheir first Medicare Part B coverage period",
+      "Frequency":"Once in a lifetime\nMust furnish no later than 12 months after the effective date of the\nfirst Medicare Part B coverage period",
+      "Beneficiary_Pays":"G0402:\n• Copayment/coinsurance waived\n• Deductible waived\nG0403, G0404, and G0405:\n• Copayment/coinsurance applies\n• Deductible applies"
+   },
+   {  
+      "Subject":"Intensive Behavioral Therapy (IBT) for\nCardiovascular Disease (CVD)\nAlso known as a CVD risk reduction visit",
+      "HCPCS-CPT_Code_Summary":"G0446 – Annual, face-to-face intensive behavioral therapy for\ncardiovascular disease, individual, 15 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0446",
+            "HCPCS-CPT_Description":"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"All Medicare beneficiaries:\n• Who are competent and alert at the time counseling is\nprovided; and\n• Whose counseling is furnished by a qualified primary care\nphysician or other primary care practitioner and in a primary\ncare setting",
+      "Frequency":"One CVD risk reduction visit annually",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Intensive Behavioral Therapy (IBT) for Obesity",
+      "HCPCS-CPT_Code_Summary":"G0447 – Face-to-face behavioral counseling for obesity, 15 minutes\nG0473 – Face-to-face behavioral counseling for obesity, group\n(2–10), 30 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0447",
+            "HCPCS-CPT_Description":"Face-to-face behavioral counseling for obesity, 15 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0473",
+            "HCPCS-CPT_Description":"Face-to-face behavioral counseling for obesity, group (2–10), 30 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes: V85.30–V85.39, V85.41–V85.45",
+      "Who_Is_Covered":"Medicare beneficiaries:\n• With obesity (Body Mass Index [BMI] ≥ 30 kilograms [kg] per\nmeter squared);\n• Who are competent and alert at the time counseling is\nprovided; and\n• Whose counseling is furnished by a qualified primary care\nphysician or other primary care practitioner in a primary\ncare setting",
+      "Frequency":"• First month: one visit every week;\n• Months 2 – 6: one visit every other week; and\n• Months 7 – 12: one visit every month if certain requirements\nare met\nAt the 6-month visit, a reassessment of obesity and a determination\nof the amount of weight loss must be performed.\nTo be eligible for additional face-to-face visits occurring once a month\nfor an additional 6 months, beneficiaries must have lost at least 3kg.\nFor beneficiaries who do not achieve a weight loss of at least 3 kg\nduring the first 6 months, a reassessment of their readiness to change\nand BMI is appropriate after an additional 6-month period.",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Lung Cancer Screening Counseling and Annual Screening for\nLung Cancer with Low Dose Computed Tomography",
+      "HCPCS-CPT_Code_Summary":"",
+      "HCPCS-CPT_Codes":[  
+         {  
+
+         }
+      ],
+      "ICD-9-CM_Codes":"",
+      "Who_Is_Covered":"Effective February 5, 2015, Medicare began covering lung cancer\nscreening counseling and a shared decision making visit, and for\nappropriate beneficiaries, annual screening for lung cancer with low\ndose computed tomography (LDCT). For more information, refer to\nhttp://www.cms.gov/medicare-coverage-database/details/ncadecision-\nmemo.aspx?NCAId=274 on the Centers for Medicare &\nMedicaid Services (CMS) website. This product will be updated with\nmore information as it becomes available.",
+      "Frequency":"Annual screening for lung cancer with low\ndose computed tomography (LDCT), effective February 5, 2015",
+      "Beneficiary_Pays":""
+   },
+   {  
+      "Subject":"Medical Nutrition Therapy (MNT)",
+      "HCPCS-CPT_Code_Summary":"97802 – MNT; initial assessment and intervention, individual,\nface-to-face with the patient, each 15 minutes\n97803 – MNT; re-assessment and intervention, individual,\nface-to-face with the patient each 15 minutes\n97804 – MNT; group (2 or more individual(s)), each 30 minutes\nG0270 – MNT reassessment and subsequent intervention(s) for\nchange in diagnosis, individual, each 15 minutes\nG0271 – MNT reassessment and subsequent intervention(s) for\nchange in diagnosis, group (2 or more), each 30 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"97802",
+            "HCPCS-CPT_Description":"MNT; initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"97803",
+            "HCPCS-CPT_Description":"MNT; re-assessment and intervention, individual, face-to-face with the patient each 15 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"97804",
+            "HCPCS-CPT_Description":"MNT; group (2 or more individual(s)), each 30 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0270",
+            "HCPCS-CPT_Description":"MNT reassessment and subsequent intervention(s) for change in diagnosis, individual, each 15 minutes"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0271",
+            "HCPCS-CPT_Description":"MNT reassessment and subsequent intervention(s) for change in diagnosis, group (2 or more), each 30 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"Certain Medicare beneficiaries:\n• Who receive a referral from their treating physician; and\n• Are diagnosed with diabetes, renal disease, or who have received\na kidney transplant within the last 3 years; and\n• A registered dietitian or nutrition professional must provide\nthe services",
+      "Frequency":"• First year: 3 hours of one-on-one counseling; or\n• Subsequent years: 2 hours",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Pneumococcal Vaccine and Administration",
+      "HCPCS-CPT_Code_Summary":"90670 – Pneumococcal Conjugate Vaccine\n90732 – Pneumococcal polysaccharide vaccine\nG0009 – Administration",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"90670",
+            "HCPCS-CPT_Description":"Pneumococcal Conjugate Vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"90732",
+            "HCPCS-CPT_Description":"Pneumococcal polysaccharide vaccine"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0009",
+            "HCPCS-CPT_Description":"Administration"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes:\n• V03.82 – Pneumococcus\n• V06.6 – Pneumococcus and Influenza",
+      "Who_Is_Covered":"All Medicare beneficiaries",
+      "Frequency":"• An initial pneumococcal vaccine to Medicare beneficiaries who\nnever received the vaccine under Medicare Part B; and\n• A different, second pneumococcal vaccine 1 year after the first\nvaccine was administered",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Prostate Cancer Screening",
+      "HCPCS-CPT_Code_Summary":"G0102 – Digital Rectal Exam (DRE)\nG0103 – Prostate Specific Antigen Test (PSA)",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0102",
+            "HCPCS-CPT_Description":"Digital Rectal Exam (DRE)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0103",
+            "HCPCS-CPT_Description":"Prostate Specific Antigen Test (PSA)"
+         }
+      ],
+      "ICD-9-CM_Codes":"V76.44",
+      "Who_Is_Covered":"All male Medicare beneficiaries aged 50 and older (coverage begins\nthe day after their 50th birthday)",
+      "Frequency":"Annually for covered beneficiaries",
+      "Beneficiary_Pays":"G0102:\n• Copayment/coinsurance applies\n• Deductible applies\nG0103:\n• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Screening for Sexually Transmitted Infections (STIs)\nand High Intensity Behavioral Counseling (HIBC) to\nPrevent STIs",
+      "HCPCS-CPT_Code_Summary":"86631, 86632, 87110, 87270, 87320, 87490, 87491, 87810 – Chlamydia\n87590, 87591, 87850 – Neisseria gonorrhoeae\n87800 – Infectious agent detection by nucleic acid (DNA or RNA), multiple\norganisms; direct probe(s) technique\n86592 – Syphilis test, non-treponemal antibody; qualitative\n(eg, VDRL, RPR, ART)\n86593 – Syphilis test, non-treponemal, quantitative\n86780 – Treponema pallidum\n87340, 87341 – Hepatitis B (hepatitis B surface antigen)\nG0445 – Semiannual high intensity behavioral counseling to prevent STIs,\nindividual, face-to-face, includes education skills training & guidance on\nhow to change sexual behavior, 30 minutes",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"86631",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"86632",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87110",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87270",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87320",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87490",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87491",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87810",
+            "HCPCS-CPT_Description":"Chlamydia"
+         },
+         {  
+            "HCPCS-CPT_Code":"87590",
+            "HCPCS-CPT_Description":"Neisseria gonorrhoeae"
+         },
+         {  
+            "HCPCS-CPT_Code":"87591",
+            "HCPCS-CPT_Description":"Neisseria gonorrhoeae"
+         },
+         {  
+            "HCPCS-CPT_Code":"87850",
+            "HCPCS-CPT_Description":"Neisseria gonorrhoeae"
+         },
+         {  
+            "HCPCS-CPT_Code":"87800",
+            "HCPCS-CPT_Description":"Infectious agent detection by nucleic acid (DNA or RNA), multiple organisms; direct probe(s) technique"
+         },
+         {  
+            "HCPCS-CPT_Code":"86592",
+            "HCPCS-CPT_Description":"Syphilis test, non-treponemal antibody; qualitative (eg, VDRL, RPR, ART)"
+         },
+         {  
+            "HCPCS-CPT_Code":"86593",
+            "HCPCS-CPT_Description":"Syphilis test, non-treponemal, quantitative"
+         },
+         {  
+            "HCPCS-CPT_Code":"86780",
+            "HCPCS-CPT_Description":"Treponema pallidum"
+         },
+         {  
+            "HCPCS-CPT_Code":"87340",
+            "HCPCS-CPT_Description":"Hepatitis B (hepatitis B surface antigen) "
+         },
+         {  
+            "HCPCS-CPT_Code":"87341",
+            "HCPCS-CPT_Description":"Hepatitis B (hepatitis B surface antigen)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0445",
+            "HCPCS-CPT_Description":"Semiannual high intensity behavioral counseling to prevent STIs, individual, face-to-face, includes education skills training & guidance on how to change sexual behavior, 30 minutes"
+         }
+      ],
+      "ICD-9-CM_Codes":"For screening for chlamydia, gonorrhea, and syphilis in women at increased\nrisk for STIs who are not pregnant report V74.5 and V69.8\nFor screening for syphilis in men at increased risk, report V74.5 and V69.8\nFor screening for chlamydia and gonorrhea in pregnant women at increased\nrisk for STIs, report:\n• V74.5, V69.8; and\n• V22.0, V22.1, or V23.9\nFor screening for syphilis in pregnant women, report:\n• V74.5, V22.0; and\n• V22.1 or V23.9\nFor screening for syphilis in pregnant women at increased risk for\nSTIs, report:\n• V74.5, V69.8; and\n• V22.0, V22.1, or V23.9\nFor screening for hepatitis B in pregnant women, report\n• V73.89; and\n• V22.0, V22.1, or V23.9\nFor screening for hepatitis B in pregnant women at increased risk for\nSTIs, report:\n• V73.89, V69.8; and\n• V22.0, V22.1, or V23.9\nFor HIBC: No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"Certain Medicare beneficiaries who are:\n• Sexually active adolescents and adults at increased risk for STIs; and\n• Referred for this service by a primary care provider and provided by a\nMedicare-eligible primary care provider in a primary care setting\nNOTE: More information on covered beneficiaries and a definition of\n“increased risk for STIs” can be found in the Medicare National Coverage\nDeterminations Manual, Publication 100-03, Chapter 1, Section 210.10.",
+      "Frequency":"",
+      "Beneficiary_Pays":""
+   },
+   {  
+      "Subject":"Screening for Sexually Transmitted Infections (STIs)\nand High Intensity Behavioral Counseling (HIBC) to\nPrevent STIs (continued)",
+      "HCPCS-CPT_Code_Summary":"",
+      "HCPCS-CPT_Codes":[  
+         {  
+
+         }
+      ],
+      "ICD-9-CM_Codes":"",
+      "Who_Is_Covered":"",
+      "Frequency":"• One annual occurrence of screening for chlamydia, gonorrhea, and\nsyphilis in women at increased risk who are not pregnant\n• One annual occurrence of screening for syphilis in men at increased risk\n• Up to two occurrences per pregnancy of screening for chlamydia and\ngonorrhea in pregnant women who are at increased risk for STIs and\ncontinued increased risk for the second screening\n• One occurrence per pregnancy of screening for syphilis in pregnant\nwomen; up to two additional occurrences in the third trimester and at\ndelivery if at continued increased risk for STIs\n• One occurrence per pregnancy of screening for hepatitis B in pregnant\nwomen; one additional occurrence at delivery if at continued increased\nrisk for STIs\n• Up to two 20-30 minute, face-to-face HIBC counseling sessions annually",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Screening Mammography\nUpdate: Medicare now requires an add-on code when you furnish a mammography using\n3-D mammography in conjunction with a 2-D digital mammography, effective January 1, 2015.",
+      "HCPCS-CPT_Code_Summary":"77052 – Computer-aided detection (computer algorithm analysis of\ndigital image data for lesion detection) with further review for\ninterpretation; screening mammography (List separately in addition\nto code for primary procedure)\n77057 – Screening mammography, bilateral (2-view film study of\neach breast)\n77063 – Screening digital breast tomosynthesis; bilateral (List\nseparately in addition to code for primary procedure) (Use this as an\nadd-on code to G0202 when tomosynthesis is used in addition to\n2-D mammography)\nG0202 – Screening mammography, producing direct 2-D digital\nimage, bilateral, all views\nNOTE: If billing a screening mammogram and a diagnostic\nmammogram on the same day, use modifier –GG to show a\nscreening mammogram turned into a diagnostic mammogram.",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"77052",
+            "HCPCS-CPT_Description":"Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation; screening mammography (List separately in addition to code for primary procedure)"
+         },
+         {  
+            "HCPCS-CPT_Code":"77057",
+            "HCPCS-CPT_Description":"Screening mammography, bilateral (2-view film study of each breast)"
+         },
+         {  
+            "HCPCS-CPT_Code":"77063",
+            "HCPCS-CPT_Description":"Screening digital breast tomosynthesis; bilateral (List separately in addition to code for primary procedure) (Use this as an add-on code to G0202 when tomosynthesis is used in addition to 2-D mammography)"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0202",
+            "HCPCS-CPT_Description":"Screening mammography, producing direct 2-D digital image, bilateral, all views"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes: V76.11 or V76.12",
+      "Who_Is_Covered":"All female Medicare beneficiaries aged 35 and older",
+      "Frequency":"• Aged 35 through 39: One baseline; or\n• Aged 40 and older: Annually",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Screening Pap Tests",
+      "HCPCS-CPT_Code_Summary":"G0123, G0124, G0141, G0143, G0144, G0145, G0147,\nG0148 – Screening cytopathology, cervical or vaginal\nP3000 – Screening Pap smear by technician under\nphysician supervision\nP3001 – Screening Pap smear requiring interpretation by physician\nQ0091 – Screening Pap smear; obtaining, preparing and conveyance\nto lab",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0123",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0124",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0141",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0143",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0144",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0145",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0147",
+            "HCPCS-CPT_Description":"Screening cytopathology, cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"G0148",
+            "HCPCS-CPT_Description":"Screening cytopathology - Screening cytopathology, cervical or vaginal cervical or vaginal"
+         },
+         {  
+            "HCPCS-CPT_Code":"P3000",
+            "HCPCS-CPT_Description":"Screening Pap smear by technician under physician supervision"
+         },
+         {  
+            "HCPCS-CPT_Code":"P3001",
+            "HCPCS-CPT_Description":"Screening Pap smear requiring interpretation by physician"
+         },
+         {  
+            "HCPCS-CPT_Code":"Q0091",
+            "HCPCS-CPT_Description":"Screening Pap smear; obtaining, preparing and conveyance to lab"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes:\n• Low Risk – V72.31, V76.2, V76.47, V76.49\n• High Risk – V15.89",
+      "Who_Is_Covered":"All female Medicare beneficiaries",
+      "Frequency":"• Annually if at high risk for developing cervical or vaginal cancer or\nchildbearing age with abnormal Pap test within past 3 years; or\n• Every 2 years for women at normal risk",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Screening Pelvic Examinations (includes a clinical\nbreast examination)",
+      "HCPCS-CPT_Code_Summary":"G0101 – Cervical or vaginal cancer screening; pelvic and clinical\nbreast examination",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0101",
+            "HCPCS-CPT_Description":"Cervical or vaginal cancer screening; pelvic and clinical breast examination"
+         }
+      ],
+      "ICD-9-CM_Codes":"Report one of the following codes:\n• Low Risk – V72.31, V76.2, V76.47, V76.49\n• High Risk – V15.89",
+      "Who_Is_Covered":"All female Medicare beneficiaries",
+      "Frequency":"• Annually if at high risk for developing cervical or vaginal cancer, or\nchildbearing age with abnormal Pap test within past 3 years; or\n• Every 2 years for women at normal risk",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   },
+   {  
+      "Subject":"Ultrasound Screening for Abdominal Aortic Aneurysm (AAA)",
+      "HCPCS-CPT_Code_Summary":"G0389 – Ultrasound exam for AAA screening",
+      "HCPCS-CPT_Codes":[  
+         {  
+            "HCPCS-CPT_Code":"G0389",
+            "HCPCS-CPT_Description":"Ultrasound exam for AAA screening"
+         }
+      ],
+      "ICD-9-CM_Codes":"No specific diagnosis code\nContact local Medicare Administrative Contractor (MAC) for guidance",
+      "Who_Is_Covered":"Medicare beneficiaries:\n• With certain risk factors for AAA; and\n• Who receive a referral from their physician, physician assistant,\nnurse practitioner, or clinical nurse specialist",
+      "Frequency":"Once in a lifetime",
+      "Beneficiary_Pays":"• Copayment/coinsurance waived\n• Deductible waived"
+   }
+]
