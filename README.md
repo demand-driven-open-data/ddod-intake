@@ -1,5 +1,10 @@
 # Demand-Driven Open Data
-Demand-Driven Open Data (DDOD) is a framework of tools and methodologies that guides the execution of open data initiatives.  It provides a systematic, ongoing and transparent mechanism for you to tell public data owners what's most valuable
+Demand-Driven Open Data (DDOD) is a framework of tools and methodologies that guides the execution of open data initiatives.  It provides a systematic, ongoing and transparent mechanism for you to tell public data owners what's most valuable  
+<br>
+
+|   View the main DDOD site here:  http://ddod.us    | 
+| ------------- |
+
 <br>
 <br>
 <br>
