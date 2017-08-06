@@ -1,7 +1,13 @@
 ___
 
 
-Thank you for your interest in the Demand-Driven Open Data (DDOD) pilot. This pilot is currently on hold, but please use go ahead and use the knowledge base here (https://github.com/demand-driven-open-data/ddod-intake/issues) and in the wiki (http://ddod.healthdata.gov) to learn about existing use cases. Unfortunately we are not able to handle additional DDOD use cases at this time.
+**Instructions: Describe what data you need and how you want to use it**
+
+1. Description of problem or need: ___
+2. Value to yourself and/or public: ___
+3. Limitations in current data available: ___
+4. Desired specifications: ___ 
+   - (fields, update frequency, lag time, history, file format, API vs download, joins to another dataset)
 
 
 ___
